@@ -164,3 +164,5 @@ ggplot(averages, aes(interval, steps)) + facet_grid(weekstatus ~ .) +
 ```
 
 ![plot of chunk unnamed-chunk-13](figure/unnamed-chunk-13-1.png) 
+
+Completed by Andriy Volkoviy, 2015
